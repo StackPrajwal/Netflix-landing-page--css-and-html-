@@ -1,6 +1,6 @@
 # Netflix Clone Website
 
-LIVE HERE [](https://stackprajwal-netflix-clone.netlify.app/)
+LIVE HERE --- <h2>https://stackprajwal-netflix-clone.netlify.app/</h2>
 
 ![Netflix Clone Logo](https://www.edigitalagency.com.au/wp-content/uploads/Netflix-logo-red-black-png.png)
 
